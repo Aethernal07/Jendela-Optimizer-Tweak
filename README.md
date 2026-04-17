@@ -4,9 +4,9 @@
 <div align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?logo=windows)
-![Version](https://img.shields.io/badge/version-3.0-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Made with](https://img.shields.io/badge/Made%20with-Batch-ff69b4)
-![Gacor](https://img.shields.io/badge/GACOR-STORE-red)
+![RnldxAethernal](https://img.shields.io/badge/Aethernal-red)
 
 🚀 Biar laptop lo nggak lemot kayak kura-kura 🐢 → jadi jet tempur 🛩️
 
