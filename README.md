@@ -1,1 +1,0 @@
-# Jendela-Optimizer-Tweak
